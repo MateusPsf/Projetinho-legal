@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-hematimetrica",
+  "version": "1.0.0",
+  "description": "Calculadora de Índices Hematimétricos",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000"
+  },
+  "keywords": ["hematimetrica", "calculadora", "saude"],
+  "author": "",
+  "license": "ISC"
+}
